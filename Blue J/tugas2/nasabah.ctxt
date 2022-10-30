@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=nasabah
+comment1.params=nama\ alamat\ no_hp
+comment1.target=void\ data(java.lang.String,\ java.lang.String,\ int)
+comment2.params=no_rek\ jns_tabungan
+comment2.target=void\ info(int,\ java.lang.String)
+numComments=3

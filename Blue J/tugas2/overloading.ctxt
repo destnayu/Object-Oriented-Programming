@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=overloading
+comment1.params=a\ b
+comment1.target=void\ jumlah(int,\ int)
+comment2.params=c\ d
+comment2.target=void\ jumlah(int,\ double)
+comment3.params=a\ b\ c
+comment3.target=void\ jumlah(int,\ int,\ int)
+comment4.params=a\ b
+comment4.target=void\ jumlah(int,\ java.lang.String)
+comment5.params=b\ a
+comment5.target=void\ jumlah(java.lang.String,\ int)
+comment6.params=
+comment6.target=void\ jumlah()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

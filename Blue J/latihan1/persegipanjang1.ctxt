@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=persegipanjang1
+comment1.params=p\ l
+comment1.target=persegipanjang1(int,\ int)
+comment2.params=
+comment2.target=int\ getLuas()
+comment3.params=
+comment3.target=int\ getKel()
+comment4.params=
+comment4.target=void\ getJenis()
+numComments=5

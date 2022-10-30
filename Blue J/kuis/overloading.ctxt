@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=overloading
+comment1.params=nama\ alamat\ tgl_lahir\ no_hp
+comment1.target=void\ pasien(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=nama\ poli\ jam_praktek
+comment2.target=void\ dokter(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=nama_obat\ jenis_obat\ jumlah_obat
+comment3.target=void\ apotek(java.lang.String,\ java.lang.String,\ int)
+numComments=4

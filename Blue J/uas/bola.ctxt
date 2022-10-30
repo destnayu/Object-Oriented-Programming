@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=bola
+comment1.params=
+comment1.target=void\ jari2()
+comment2.params=
+comment2.target=double\ phi()
+comment3.params=
+comment3.target=double\ vol()
+comment4.params=
+comment4.target=double\ luas()
+comment5.params=
+comment5.target=void\ tampil()
+numComments=6

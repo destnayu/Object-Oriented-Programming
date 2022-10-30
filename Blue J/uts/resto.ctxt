@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=resto
+comment1.params=
+comment1.target=void\ toping()
+comment2.params=
+comment2.target=void\ ukuran()
+comment3.params=
+comment3.target=void\ pinggiran()
+comment4.params=nama
+comment4.target=void\ cetakData(java.lang.String)
+comment5.params=pz\ pp\ pu
+comment5.target=void\ cetakTotal(int,\ int,\ int)
+numComments=6
